@@ -1,0 +1,86 @@
+body { background: #cccccc;}
+
+.ui-mobile #HomePage {  background-color: #cccccc; }
+
+
+.IconSets {
+    width: 100%;
+    padding: 0;
+    margin:0;
+}
+.clsIcon {
+    float:left;
+    width:33%;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.clsIconLink {
+    text-decoration: none;
+    color:#111111;
+    text-shadow: 0 1px 1px #fff;
+}
+.AccountIcon {
+    background-image:url('../images/accounts.png');
+    background-repeat: no-repeat;  
+    height:57px;
+    width:57px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.ContactIcon {
+    background-image:url('../images/contacts.png');
+    background-repeat: no-repeat;
+    height:57px;
+    width:57px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.QuotationIcon {
+    background-image:url('../images/quotations.png');
+    background-repeat: no-repeat;
+    height:57px;
+    width:57px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.SalesOrderIcon {
+    background-image:url('../images/sales-order.png');
+    background-repeat: no-repeat;
+    height:57px;
+    width:57px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.SupplierIcon {
+    background-image:url('../images/suppliers.png');
+    background-repeat: no-repeat;
+    height:57px;
+    width:57px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.PurchaseOrderIcon {
+    background-image:url('../images/purchase-orders.png');
+    background-repeat: no-repeat;
+    height:57px;
+    width:57px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.InvoiceIcon {
+    background-image:url('../images/invoices.png');
+    background-repeat: no-repeat;
+    height:57px;
+    width:57px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ProductIcon {
+    background-image:url('../images/products.png');
+    background-repeat: no-repeat;
+    height:57px;
+    width:57px;
+    margin-left: auto;
+    margin-right: auto;
+}
